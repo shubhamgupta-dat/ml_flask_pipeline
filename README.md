@@ -3,7 +3,7 @@
 Creating pipeline for an ML model, using flask.
 
 ## Prepare
---------------
+
 ### 1. Clone the repository
 > `git clone https://github.com/shubhamgupta-dat/ml_flask_pipeline/`
 
