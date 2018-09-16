@@ -11,4 +11,4 @@ def __init__(port=6870):
   """  
   return
 
-print("Place holder message, for server on port:{0}".format(port))
+print("Place holder message, for server initialization.")
